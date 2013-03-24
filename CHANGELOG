@@ -1,0 +1,28 @@
+Modification History:
+  30 May     2012 - modified by Aikido Guy
+                  - added check to behave sanely in the case of no tasks with
+                    a hierarchy associated to them
+  20 May     2012 - modified by Aikido Guy
+		  - added 'modify' command
+		  - 'tableofcontents' command changes:
+		    > added status column
+		    > made command structure more rigid (for clarity)
+                  - added some more checks to increase robustness
+  16 May     2012 - modified by Aikido Guy
+                  - added wait date to 'tableofcontents' output
+  15 May     2012 - modified by Aikido Guy
+                  - added ID to 'tableofcontents' output
+                  - added status to 'tableofcontents' output
+  10 January 2012 - modified by Aikido Guy
+                  - added 'tableofcontents [text|latex]' command
+   7 January 2012 - modified by Aikido Guy
+                  - handle special cases for before and after for move command
+                  - added 'undo <numberOfTimes>' command as a convenience
+   6 January 2012 - modified by Aikido Guy
+                  - compress and move commands implemented
+                  - before, after and under options for move command implemented
+   4 January 2012 - created by Aikido Guy
+                  - ideas collected from TaskWarrior forum
+
+Please feel free to contribute to this project.
+
