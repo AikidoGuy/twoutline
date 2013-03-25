@@ -17,10 +17,11 @@ Further information and discussion is available at: http://taskwarrior.org/board
 Dependencies
 ------------
 - python
+- python package pytz available from: http://pytz.sourceforge.net/
 
 List of Things to Improve
 -------------------------
-- [x] placed first version on github (2013/03/24)
+- [x] 2013/03/24: placed first version on github
 - [ ] test with newest TaskWarrior release
 
 Suggestions for improvement are welcome.
