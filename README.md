@@ -1,7 +1,7 @@
 twoutline
 =========
 
-Task Warrior to Outline python utility.
+Taskwarrior to Outline python utility.
 
 This is being made available sooner that I was planning because I received an email request
 for another one of my utilities, tw2latex. Please be aware that both utilities are a work in progress.
@@ -22,7 +22,7 @@ Dependencies
 List of Things to Improve
 -------------------------
 - [x] 2013/03/24: placed first version on github
-- [ ] test with newest TaskWarrior release
+- [ ] test with newest Taskwarrior release
 
 Suggestions for improvement are welcome.
 
